@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @charaf-chaouki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a full stack developer with more than 3 years of experience. I specialized in web developping and have extensive experience with Wordpress and SEO.
 
-<!---
-charaf-chaouki/charaf-chaouki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+First impressions mean everything, especially when it comes to your business. Grab the attention of potential clients with quality assurance and communication. I created many web applications using PHP, Laravel, Wordpress, SEO.
+
+My expertise includes
+- HTML / CSS
+- Javascript
+- Bootstrap
+- PHP
+- Laravel
+- Wordpress and SEO
+- Rest API
+- Git / Github / bitbucket
+- Ecommerce and Shopify
+
+Feel free to contact me anytime through Freelancer chat.
