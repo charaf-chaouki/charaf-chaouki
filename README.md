@@ -13,4 +13,4 @@ My expertise includes
 - Git / Github / bitbucket
 - Ecommerce and Shopify
 
-Feel free to contact me anytime through Freelancer chat.
+Feel free to contact me anytime.
